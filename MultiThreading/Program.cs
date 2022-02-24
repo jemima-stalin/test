@@ -28,6 +28,8 @@ namespace MultiThreading
 
 
             Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
